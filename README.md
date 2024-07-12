@@ -76,6 +76,8 @@ Chapter 3. Useful Tools List
 - https://www.hibitsoft.ir/Uninstaller.html (Advanced program uninstaller & system cleaner)
 - https://mpc-hc.org/ (Open-source video-player)
 - https://www.irfanview.com/ (Spyware-free photo-viewer)
+- https://heldercorreia.bitbucket.io/speedcrunch/ (Open-source calculator)
+- https://notepad-plus-plus.org/ (Open-source notepad software)
 
 Chapter 4. Useful Scripts List
 ------
