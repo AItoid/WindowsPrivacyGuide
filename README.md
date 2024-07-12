@@ -8,7 +8,13 @@ This guide will be in order from what you should do first, to what you should do
 
 ### Chapters
 1. Boot Installation & Configuration
-2. Disabling & Uninstalling Apps In Settings
+2. Disabling Settings & Uninstalling Basic Apps (TODO)
+3. Removing Microsoft Edge (TODO)
+4. Uninstalling Standard Apps With Advanced Tools (TODO)
+5. Permanently Disabling Windows Updates (TODO)
+6. Disabling Windows Firewall (TODO)
+7. Securely Deleting Files (TODO)
+8. Removing Metadata From Photos (TODO)
 
 ### Chapter 1. Boot Installation & Configuration
 
@@ -18,5 +24,3 @@ Let's start from the complete beginning of the installation. This guide assumes 
 ![photo1](https://i.imgur.com/aXnl9W0.png)
 ![photo2](https://i.imgur.com/YMQqBXl.png)
 ![photo3](https://i.imgur.com/1uy8jSi.png)
-
-### Chapter 2. Disabling & Uninstalling Apps In Settings
