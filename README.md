@@ -6,6 +6,9 @@ WindowsPrivacyGuide will respect your time, and will enlighten you in this compi
 Do keep in mind that this guide primarily targets Windows 10 due to it not being in the spotlight as much, as well as it being preferred for privacy and all around convenience.
 This guide will be in order from what you should do first, to what you should do last. Photos will be included for those that would like precise instructions that are easy-to-follow.
 
+> [!CAUTION]
+> Please keep in mind I am NOT responsible for any issues that occurs with your computer. By applying any of these methods, you 100% agree to take full responsibility to any issues that occur on your device. It is recommended to create a restore-point in the event of a significant bug.
+
 ### Chapters
 1. Boot Installation & Configuration
 2. Modifying Various Settings & Uninstalling Basic Apps
@@ -57,7 +60,8 @@ In the Windows 10 settings, there is various options we should modify / disable 
 
 #### Apps
 - Apps & features > Uninstall all applications that you can from the large list that state they're from Microsoft.
-NOTE: Be sure to uninstall applications such as Paint & Calculator as well.
+> [!NOTE]
+> Be sure to uninstall applications such as Paint & Calculator as well.
 
 #### System
 - Optional features > Uninstall applications such as Notepad or any common program for Windows.
@@ -88,8 +92,8 @@ The steps to uninstalling Microsoft Edge is quite easy. Follow the steps below:
 3. At the top of File Explorer, you must select the folder right before the Edge one, so you're no longer inside the folder.
 4. Now right click the msedge.exe processes' and select End task on all of them.
 5. Finally, you can delete the folder that contains msedge.exe inside of it once the processes' are no longer running!
-
-NOTE: Alternatively, you may just go to the first tab, Processes, and find Microsoft Edge's process list and just end that, then delete the directory.
+> [!NOTE]
+> Alternatively, you may just go to the first tab, Processes, and find Microsoft Edge's process list and just end that, then delete the directory.
 
 Chapter 6. Uninstalling Standard Apps With Tools
 ------
