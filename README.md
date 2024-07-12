@@ -44,7 +44,7 @@ Chapter 2. Modifying Various Settings & Uninstalling Basic Apps
 In the Windows 10 settings, there is various options we should modify / disable for our privacy. To open settings, press the Windows key, and select the gear icon in the bottom left. After that, I recommend going through each tab and disabling as much as possible that you deem a privacy threat / spyware. Starting in 'Updates & Security' and working our way up, we will click into the corresponding tab below and follow the sub-section on the side.
 
 #### Updates & Security
-- **Windows Update** > Advanced options > Disable everything in here and pause updates for as long as you can in the drop-down.
+- **Windows Update** > Advanced options > Disable everything in here and pause updates for as long as you can in the dropdown.
 - **Troubleshoot** > Don't run any troubleshooters.
 - **Find my device** > OFF.
 
@@ -118,19 +118,27 @@ In this section, we are primarily focused on using the HiBit Uninstaller applica
 ![photo4](https://i.imgur.com/joHHOwk.png)
 ![photo5](https://i.imgur.com/dVPbZmP.png)
 
-The options we are interested in are Tools > Windows Store Apps Manager / Program Components Manager. You may also like to use some of the other tools in this drop-down such as Registry Cleaner, Junk Files Cleaner, Empty Folder Cleaner, Shortcuts Fixer, and even a File Shredder built into it. I don't recommend this file-shredder though, but rather one that's added to the list of actions when you right-click a file. Be sure to remove any left-over native Microsoft applications such as Paint, Notepad, Calculator, Solitaire, Xbox, Phone, etc, etc. Uninstalling some of these applications may seem like a waste of time, but at the end of the day, we're here to modify Windows 10 to the extreme, not just disable a few functions.
+The options we are interested in are Tools > Windows Store Apps Manager / Program Components Manager. You may also like to use some of the other tools in this dropdown such as Registry Cleaner, Junk Files Cleaner, Empty Folder Cleaner, Shortcuts Fixer, and even a File Shredder built into it. I don't recommend this file-shredder though, but rather one that's added to the list of actions when you right-click a file. Be sure to remove any left-over native Microsoft applications such as Paint, Notepad, Calculator, Solitaire, Xbox, Phone, etc, etc. Uninstalling some of these applications may seem like a waste of time, but at the end of the day, we're here to modify Windows 10 to the extreme, not just disable a few functions.
 
 Chapter 7. Permanently Disabling Windows Updates
 ------
 
 Please make sure you have the application NSudo installed, which is listed in chapter 3's tool-list, and follow the steps below to disable Windows 10 updates.
-1. Select TrustedInstaller in the drop-down
+1. Select TrustedInstaller in the dropdown
 2. Select Enable All Privileges checkbox
 3. Insert text taskschd.msc
 4. Select Run
+5. Expand Task Scheduler Library > Microsoft > Windows
+6. Select UpdateOrchestrator near the bottom
+7. Disable all triggers in the listbox by right clicking them, and selecting Disable
+8. Select WindowsUpdate below UpdateOrchestrator and expand
+9. Right click Scheduled Start Properties, and select Disable
+10. Restart the OS to ensure modifications take place
 
 #### Photos
 ![photo10](https://i.imgur.com/RHMklZL.png)
+![photo11](https://i.imgur.com/6OlvGBE.png)
+![photo12](https://i.imgur.com/Ld9LjpV.png)
 
 Chapter 8. Disabling Windows Firewall
 ------
