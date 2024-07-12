@@ -102,7 +102,12 @@ The steps to uninstalling Microsoft Edge is quite easy. Follow the steps below:
 Chapter 6. Uninstalling Standard Apps With Tools
 ------
 
-Test6
+In this section, we are primarily focused on using the HiBit Uninstaller application, which is listed in chapter 3. This tool is useful for uninstalling a variety of program-types, as well as cleaning up the system. Here is a photo of what the application looks like. It's the portable version as you can see, so it's not in our program-list.
+
+#### Photos
+![photo4](https://i.imgur.com/joHHOwk.png)
+
+The options we are interested in are Tools > Windows Store Apps Manager / Program Components Manager. You may also like to use some of the other tools in this drop-down such as Registry Cleaner, Junk Files Cleaner, Empty Folder Cleaner, Shortcuts Fixer, and even a File Shredder built into it. I don't recommend this file-shredder though, but rather one that's added to the list of actions when you right-click a file. Be sure to remove any left over any native Windows applications such as Paint, Notepad, Solitaire, Xbox, Phone, etc, etc.
 
 Chapter 7. Permanently Disabling Windows Updates
 ------
