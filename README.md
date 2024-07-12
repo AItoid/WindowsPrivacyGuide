@@ -81,6 +81,10 @@ Chapter 3. Useful Tools List
 - https://www.irfanview.com/ (Spyware-free photo-viewer)
 - https://heldercorreia.bitbucket.io/speedcrunch/ (Open-source calculator)
 - https://notepad-plus-plus.org/ (Open-source notepad software)
+- https://www.mozilla.org/en-US/firefox/ (Open-source browser for privacy)
+- https://www.torproject.org/download/ (Open-source browser for anonymity & privacy)
+- https://mullvad.net/en (Open-source VPN that doesn't collect logs)
+- https://windscribe.com/ (Open-source VPN that doesn't collect logs)
 
 Chapter 4. Useful Scripts List
 ------
