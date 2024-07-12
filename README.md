@@ -22,6 +22,9 @@ This guide will be in order from what you should do first, to what you should do
 > [!CAUTION]
 > Please keep in mind I am NOT responsible for any issues that occurs with your computer. By applying any of these methods, you 100% agree to take full responsibility to any issues that occur on your device. It is recommended to create a restore-point in the event of a significant bug.
 
+> [!WARNING]
+> Some options in Windows may refuse to work after applying some scripts, and will just close the settings window due to instability. The rest of Windows will work as intended though. For those who play games, this will generally NOT cause any issues with games you may play.
+
 Chapter 1. Boot Installation & Configuration
 ------
 
