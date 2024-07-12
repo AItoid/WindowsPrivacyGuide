@@ -8,8 +8,9 @@ This guide will be in order from what you should do first, to what you should do
 
 ### Chapters
 - 1. Boot Installation & Configuration
+- 2. Disabling & Uninstalling Apps In Settings
 
-### Chapter 1 / Boot Installation & Configuration
+### Chapter 1. Boot Installation & Configuration
 
 Let's start from the complete beginning of the installation. This guide assumes you already aware of how to install the Windows 10 OS. I will not be explaining how to install Windows 10 OS, but rather, showing you what to disable on installation before you're prompted to the desktop. Firstly, it's important for you to NOT enable WiFi just yet! If you have an Ethernet plugged in, please disable it before continuing. Once your internet-connection is disabled, select the 'I don't have a Microsoft account.' option, so you don't have to sign in. Following this path will give you what's called a local account, or an offline account. Proceed with installation, making sure Cortana is NOT enabled, and after, you should be able to proceed with installation and be prompted onto your desktop momentarily.
 
@@ -17,3 +18,5 @@ Let's start from the complete beginning of the installation. This guide assumes 
 ![photo1](https://i.imgur.com/aXnl9W0.png)
 ![photo2](https://i.imgur.com/YMQqBXl.png)
 ![photo3](https://i.imgur.com/1uy8jSi.png)
+
+### Chapter 2. Disabling & Uninstalling Apps In Settings
