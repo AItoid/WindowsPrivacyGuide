@@ -15,8 +15,8 @@ This guide will be in order from what you should do first, to what you should do
 6. Uninstalling Standard Apps With Tools
 7. Permanently Disabling Windows Updates (TODO)
 8. Disabling Windows Firewall
-9. Securely Deleting Files (TODO)
-10. Removing Metadata From Photos (TODO)
+9. Securely Deleting Files
+10. Removing Metadata From Photos
 11. Installing NVIDIA drivers without bloatware (TODO)
 
 > [!WARNING]
@@ -145,11 +145,20 @@ In chapter 3, I present you with a link to a file-shredder installer. The file-s
 3. Select Secure delete files
 4. Press OK
 
+#### Photos
+![photo7](https://i.imgur.com/WIUZa3a.png)
+
 Now the files will never be able to be recovered!
 
 Chapter 10. Removing Metadata From Photos
 ------
-Test10
+
+In chapter 3 you will find a link to a program called ExifCleaner. This tool is an easy-to-use program for removing meta-data from images. Meta-data is information associated with an image that may be used to identify you.
+Follow the steps below to remove meta-data from an image with ExifCleaner.
+1. Drop a file onto ExifCleaner / select a file in File and press Open
+
+#### Photos
+![photo8](https://i.imgur.com/2lqpo23.png)
 
 Chapter 11. Installing NVIDIA drivers without bloatware
 ------
