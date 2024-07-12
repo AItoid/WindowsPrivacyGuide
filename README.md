@@ -18,7 +18,7 @@ This guide will be in order from what you should do first, to what you should do
 - 9. Securely Deleting Files (TODO)
 - 10. Removing Metadata From Photos (TODO)
 
-Alt-H1
+Alt-H2
 ======
 ### Chapter 1. Boot Installation & Configuration
 
