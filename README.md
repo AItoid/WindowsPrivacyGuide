@@ -20,7 +20,7 @@ This guide will be in order from what you should do first, to what you should do
 11. Installing NVIDIA drivers without bloatware
 
 > [!WARNING]
-> Please keep in mind I am NOT responsible for any issues that occurs with your computer. By applying any of these methods, you 100% agree to take full responsibility in the case of any issues that occur on your device. It is recommended to create a system-restore-point in the event of a notable issue.
+> Please keep in mind I am NOT responsible for any issues that occurs with your computer. By applying any of these methods, you agree to take full responsibility in the instance of any issues occurring on your device. It is recommended to create a system-restore-point in the event of a notable issue.
 
 > [!CAUTION]
 > Some options in Windows may refuse to work after applying some scripts, and will just close the settings window due to instability, or fail to load entirely. The rest of Windows will work as intended though. For those who play games, this will generally NOT cause any issues with games you may play.
