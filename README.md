@@ -91,6 +91,7 @@ Chapter 4. Useful Scripts List
 
 - https://github.com/Sycnex/Windows10Debloater (Easy-to-use GUI script for removing bloatware)
 - https://github.com/PrivacyIsFreedom/Windows (Various scripts for disabling Windows 10 spyware & features)
+- https://privacy.sexy/ (Various scripts for making Windows 10 more private)
 
 Chapter 5. Removing Microsoft Edge
 ------
