@@ -7,8 +7,8 @@ Do keep in mind that this guide primarily targets Windows 10 due to it not being
 This guide will be in order from what you should do first, to what you should do last. Photos will be included for those that would like precise instructions that are easy-to-follow.
 
 ### Chapters
-- 1. Boot Installation & Configuration
-- 2. Disabling & Uninstalling Apps In Settings
+1. Boot Installation & Configuration
+2. Disabling & Uninstalling Apps In Settings
 
 ### Chapter 1. Boot Installation & Configuration
 
