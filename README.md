@@ -1,5 +1,5 @@
 ### WindowsPrivacyGuide
-The ultimate guide for anonymizing Windows as much as possible.
+The ultimate guide to anonymizing Windows as much as possible.
 This guide will cover everything you need to know in a simple matter for anonymizing, de-bloating, and optimizing the operating-system Windows 10 as much as possible.
 Newer Windows OS' such as 10 & 11 have many unnecessary programs and files, as well as many options that spy on you by default, as well as collecting all of your information.
 WindowsPrivacyGuide will respect your time, and will enlighten you in this compiled guide of how to take back your privacy when using the Windows OS.
