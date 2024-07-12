@@ -11,5 +11,7 @@ This guide will be in order from what you should do first, to what you should do
 
 ### Chapter 1 / Boot Installation & Configuration
 
-Let's start from the complete beginning of the installation. This guide assumes you already aware of how to install the Windows 10 OS.
+Let's start from the complete beginning of the installation. This guide assumes you already aware of how to install the Windows 10 OS. I will not be explaining how to install Windows 10 OS, but rather, showing you what to disable on installation before you're prompted to the desktop. Firstly, it's important for you to NOT enable WiFi just yet! If you have an Ethernet plugged in, please disable it before continuing. Once your internet-connection is disabled, select the 'I don't have a Microsoft account.' option, so you don't have to sign in. Following this path will give you what's called a local account, or an offline account.
+
+Test Image
 ![alt text](https://i.imgur.com/Sj4DAUJ.png)
