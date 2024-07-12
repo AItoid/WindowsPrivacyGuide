@@ -173,4 +173,4 @@ In chapter 3, you can find the link to the program called NVCleanstall. This is 
 > If you are on a laptop, be sure to also select the checkbox Optimus, and Microsoft Visual C 2017 Runtimes if that's not already installed.
 
 #### Photos
-[!photo9](https://i.imgur.com/mVWbVxU.png)
+![photo9](https://i.imgur.com/mVWbVxU.png)
