@@ -63,8 +63,6 @@ In the Windows 10 settings, there is various options we should modify / disable 
 
 #### Apps
 - **Apps & features** > Uninstall all applications that you can from the large list that state they're from Microsoft.
-> [!NOTE]
-> Be sure to uninstall applications such as Paint & Calculator as well.
 
 #### System
 - **Optional features** > Uninstall applications such as Notepad or any common program for Windows.
