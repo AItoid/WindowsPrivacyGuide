@@ -11,7 +11,7 @@ This guide will be in order from what you should do first, to what you should do
 2. Modifying Various Settings & Uninstalling Basic Apps
 3. Useful Tools List
 4. Useful Scripts List
-5. Removing Microsoft Edge (TODO)
+5. Removing Microsoft Edge
 6. Uninstalling Standard Apps With Tools (TODO)
 7. Permanently Disabling Windows Updates (TODO)
 8. Disabling Windows Firewall (TODO)
