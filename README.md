@@ -123,7 +123,14 @@ The options we are interested in are Tools > Windows Store Apps Manager / Progra
 Chapter 7. Permanently Disabling Windows Updates
 ------
 
-Please use the scripts in chapter 4 for disabling Windows 10 updates.
+Please make sure you have the application NSudo installed, which is listed in chapter 3's tool-list, and follow the steps below to disable Windows 10 updates.
+1. Select TrustedInstaller in the drop-down
+2. Select Enable All Privileges checkbox
+3. Insert text taskschd.msc
+4. Select Run
+
+#### Photos
+![photo10](https://i.imgur.com/RHMklZL.png)
 
 Chapter 8. Disabling Windows Firewall
 ------
