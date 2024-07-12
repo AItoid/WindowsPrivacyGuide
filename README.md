@@ -8,13 +8,13 @@ This guide will be in order from what you should do first, to what you should do
 
 ### Chapters
 - 1. Boot Installation & Configuration
-- 2. Disabling Settings & Uninstalling Basic Apps (TODO)
+- 2. Modifying Various Settings & Uninstalling Basic Apps (TODO)
 - 3. Removing Microsoft Edge (TODO)
-- 4. Uninstalling Standard Apps With Advanced Tools (TODO)
-- 5. Permanently Disabling Windows Updates (TODO)
-- 6. Disabling Windows Firewall (TODO)
-- 7. Useful Tools List (TODO)
-- 8. Useful Scripts List (TODO)
+- 4. Useful Tools List (TODO)
+- 5. Useful Scripts List (TODO)
+- 6. Uninstalling Standard Apps With Tools (TODO)
+- 7. Permanently Disabling Windows Updates (TODO)
+- 8. Disabling Windows Firewall (TODO)
 - 9. Securely Deleting Files (TODO)
 - 10. Removing Metadata From Photos (TODO)
 
