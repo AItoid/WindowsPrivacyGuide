@@ -14,7 +14,7 @@ This guide will be in order from what you should do first, to what you should do
 5. Removing Microsoft Edge
 6. Uninstalling Standard Apps With Tools
 7. Permanently Disabling Windows Updates (TODO)
-8. Disabling Windows Firewall (TODO)
+8. Disabling Windows Firewall
 9. Securely Deleting Files (TODO)
 10. Removing Metadata From Photos (TODO)
 11. Installing NVIDIA drivers without bloatware (TODO)
@@ -139,7 +139,13 @@ Disabling the Windows Firewall is easy! Follow the steps below to disable it ver
 Chapter 9. Securely Deleting Files
 ------
 
-Test9
+In chapter 3, I present you with a link to a file-shredder installer. The file-shredder is very convenient, and easy-to-use. After installing it with the link presented in chapter 3, please follow the steps below to shred any file or directory easily.
+1. Right click the file
+2. Select File Shredder
+3. Select Secure delete files
+4. Press OK
+
+Now the files will never be able to be recovered!
 
 Chapter 10. Removing Metadata From Photos
 ------
