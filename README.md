@@ -122,3 +122,7 @@ Test9
 Chapter 10. Removing Metadata From Photos
 ------
 Test10
+
+Chapter 11. Installing NVIDIA drivers without bloatware
+------
+Test11
