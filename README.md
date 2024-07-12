@@ -35,36 +35,36 @@ Let's start from the complete beginning of the installation. This guide assumes 
 Chapter 2. Modifying Various Settings & Uninstalling Basic Apps
 ------
 
-In the Windows 10 settings, there is various options we should modify / disable for our privacy. To open settings, press the Windows key, and select the gear icon in the bottom left. After that, I recommend going through each tab and disabling as much as possible that you deem a privacy threat / spyware. Starting in 'Updates & Security' and working our way up, we fill first click into the tab and follow the settings below.
+In the Windows 10 settings, there is various options we should modify / disable for our privacy. To open settings, press the Windows key, and select the gear icon in the bottom left. After that, I recommend going through each tab and disabling as much as possible that you deem a privacy threat / spyware. Starting in 'Updates & Security' and working our way up, we will click into the corresponding tab below and follow the sub-section below.
 
 #### Updates & Security
-- Windows Update > Advanced options > Disable everything in here and pause updates for as long as you can in the drop-down.
-- Troubleshoot > Don't run any troubleshooters.
-- Find my device > OFF.
+- **Windows Update** > Advanced options > Disable everything in here and pause updates for as long as you can in the drop-down.
+- **Troubleshoot** > Don't run any troubleshooters.
+- **Find my device** > OFF.
 
 #### Privacy
-- General > Disable everything in here.
-- Speech > Disable everything in here.
-- Inking & typing personalizatio > Off.
-- Diagnostics & feedback > Select Optional diagnostic data, and disable all the checkboxes, then select Never at the bottom.
-- Activity History > Disable everything in here.
-- Location > Set location for this device to off if it's enabled, and disable all checkboxes.
-- App diagnostics > Disable everything in here.
+- **General** > Disable everything in here.
+- **Speech** > Disable everything in here.
+- **Inking** & typing personalizatio > Off.
+- **Diagnostics** & feedback > Select Optional diagnostic data, and disable all the checkboxes, then select Never at the bottom.
+- **Activity History** > Disable everything in here.
+- **Location** > Set location for this device to off if it's enabled, and disable all checkboxes.
+- **App diagnostics** > Disable everything in here.
 
 #### Search
-- Permissions & History > Set SafeSearch to off, and disable everything in here.
+- **Permissions & History** > Set SafeSearch to off, and disable everything in here.
 
 #### Gaming
-- Game Bar > Disable game bar checkbox.
-- Game Mode > Disable game mode checkbox.
+- **Game Bar** > Disable game bar checkbox.
+- **Game Mode** > Disable game mode checkbox.
 
 #### Apps
-- Apps & features > Uninstall all applications that you can from the large list that state they're from Microsoft.
+- **Apps & features** > Uninstall all applications that you can from the large list that state they're from Microsoft.
 > [!NOTE]
 > Be sure to uninstall applications such as Paint & Calculator as well.
 
 #### System
-- Optional features > Uninstall applications such as Notepad or any common program for Windows.
+- **Optional features** > Uninstall applications such as Notepad or any common program for Windows.
 
 Chapter 3. Useful Tools List
 ------
