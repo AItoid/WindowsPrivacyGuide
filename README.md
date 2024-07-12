@@ -106,6 +106,7 @@ In this section, we are primarily focused on using the HiBit Uninstaller applica
 
 #### Photos
 ![photo4](https://i.imgur.com/joHHOwk.png)
+![photo5](https://i.imgur.com/dVPbZmP.png)
 
 The options we are interested in are Tools > Windows Store Apps Manager / Program Components Manager. You may also like to use some of the other tools in this drop-down such as Registry Cleaner, Junk Files Cleaner, Empty Folder Cleaner, Shortcuts Fixer, and even a File Shredder built into it. I don't recommend this file-shredder though, but rather one that's added to the list of actions when you right-click a file. Be sure to remove any left over any native Windows applications such as Paint, Notepad, Solitaire, Xbox, Phone, etc, etc.
 
