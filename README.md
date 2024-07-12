@@ -13,8 +13,10 @@ This guide will be in order from what you should do first, to what you should do
 - 4. Uninstalling Standard Apps With Advanced Tools (TODO)
 - 5. Permanently Disabling Windows Updates (TODO)
 - 6. Disabling Windows Firewall (TODO)
-- 7. Securely Deleting Files (TODO)
-- 8. Removing Metadata From Photos (TODO)
+- 7. Useful Tools List (TODO)
+- 8. Useful Scripts List (TODO)
+- 9. Securely Deleting Files (TODO)
+- 10. Removing Metadata From Photos (TODO)
 
 ### Chapter 1. Boot Installation & Configuration
 
