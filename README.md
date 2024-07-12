@@ -17,7 +17,7 @@ This guide will be in order from what you should do first, to what you should do
 8. Disabling Windows Firewall
 9. Securely Deleting Files
 10. Removing Metadata From Photos
-11. Installing NVIDIA drivers without bloatware (TODO)
+11. Installing NVIDIA drivers without bloatware
 
 > [!WARNING]
 > Please keep in mind I am NOT responsible for any issues that occurs with your computer. By applying any of these methods, you 100% agree to take full responsibility to any issues that occur on your device. It is recommended to create a restore-point in the event of a significant bug.
@@ -161,4 +161,16 @@ Follow the steps below to remove meta-data from an image with ExifCleaner.
 
 Chapter 11. Installing NVIDIA drivers without bloatware
 ------
-Test11
+
+In chapter 3, you can find the link to the program called NVCleanstall. This is a program that allows you to install your NVIDIA display-driver without the additional telemetry / spyware. Be sure to uninstall your graphics-card driver prior to using this software to ensure no issues occur. The program is very straight-forward to use, and all you have to do is follow a few steps, and you will have your display-driver without the additional spyware. Please follow the steps below to install your driver!
+1. Select Install best driver for my hardware radio-button
+2. Select Next
+3. Select checkboxes PhysX, and HD Audio via HDMI.
+4. Select Next
+5. Now just keep accepting until the NVIDIA installer says success!
+
+> [!NOTE]
+> If you are on a laptop, be sure to also select the checkbox Optimus, and Microsoft Visual C 2017 Runtimes if that's not already installed.
+
+#### Photos
+[!photo9](https://i.imgur.com/mVWbVxU.png)
