@@ -16,3 +16,4 @@ Let's start from the complete beginning of the installation. This guide assumes 
 #### Photos
 ![photo1](https://i.imgur.com/aXnl9W0.png)
 ![photo2](https://i.imgur.com/YMQqBXl.png)
+![photo3](https://i.imgur.com/1uy8jSi.png)
