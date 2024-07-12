@@ -80,7 +80,16 @@ Chapter 4. Useful Scripts List
 Chapter 5. Removing Microsoft Edge
 ------
 
-Test5
+Deleting the directoy & files that Microsoft Edge (msedge.exe) are in is quite easy, but you must keep in mind that they may come back after some updates. I personally haven't had Microsoft Edge come back after an update or reboot, but some people say that it may come back if a new update is installed on your device.
+
+The steps to uninstalling Microsoft Edge is quite easy. Follow the steps below:
+- 1. Open Task Manager (right click task-bar > Task Manager, or press CTRL + SHIFT + ESC)
+- 2. Go to Details, and find the process msedge.exe, right click it, and select Open file location
+- 3. At the top of File Explorer, you must select the folder right before the Edge one, so you're no longer inside the folder.
+- 4. Now right click the msedge.exe processes' and select End task on all of them.
+- 5. Finally, you can delete the folder that contains msedge.exe inside of it once the processes' are no longer running!
+
+- NOTE: Alternatively, you may just go to the first tab, Processes, and find Microsoft Edge's process list and just end that, then delete the directory.
 
 Chapter 6. Uninstalling Standard Apps With Tools
 ------
