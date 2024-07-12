@@ -6,9 +6,6 @@ WindowsPrivacyGuide will respect your time, and will enlighten you in this compi
 Do keep in mind that this guide primarily targets Windows 10 due to it not being in the spotlight as much, as well as it being preferred for privacy and all around convenience.
 This guide will be in order from what you should do first, to what you should do last. Photos will be included for those that would like precise instructions that are easy-to-follow.
 
-> [!CAUTION]
-> Please keep in mind I am NOT responsible for any issues that occurs with your computer. By applying any of these methods, you 100% agree to take full responsibility to any issues that occur on your device. It is recommended to create a restore-point in the event of a significant bug.
-
 ### Chapters
 1. Boot Installation & Configuration
 2. Modifying Various Settings & Uninstalling Basic Apps
@@ -21,6 +18,9 @@ This guide will be in order from what you should do first, to what you should do
 9. Securely Deleting Files (TODO)
 10. Removing Metadata From Photos (TODO)
 11. Installing NVIDIA drivers without bloatware (TODO)
+
+> [!CAUTION]
+> Please keep in mind I am NOT responsible for any issues that occurs with your computer. By applying any of these methods, you 100% agree to take full responsibility to any issues that occur on your device. It is recommended to create a restore-point in the event of a significant bug.
 
 Chapter 1. Boot Installation & Configuration
 ------
