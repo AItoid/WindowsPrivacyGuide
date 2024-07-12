@@ -77,6 +77,7 @@ Chapter 3. Useful Tools List
 - https://www.hibitsoft.ir/Uninstaller.html (Advanced program uninstaller & system cleaner)
 - https://mpc-hc.org/ (Open-source video-player)
 - https://www.irfanview.com/ (Spyware-free photo-viewer)
+- https://www.techpowerup.com/download/techpowerup-nvcleanstall/ (Utility to install NVIDIA display-driver without additional spyware)
 - https://heldercorreia.bitbucket.io/speedcrunch/ (Open-source calculator)
 - https://notepad-plus-plus.org/ (Open-source notepad software)
 - https://www.mozilla.org/en-US/firefox/ (Open-source browser for privacy)
