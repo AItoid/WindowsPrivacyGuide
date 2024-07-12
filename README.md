@@ -28,7 +28,7 @@ Let's start from the complete beginning of the installation. This guide assumes 
 ![photo2](https://i.imgur.com/YMQqBXl.png)
 ![photo3](https://i.imgur.com/1uy8jSi.png)
 
-### Chapter 2. Modifying Various Settings & Uninstalling Basic Apps
+Chapter 2. Modifying Various Settings & Uninstalling Basic Apps
 ------
 
 In the Windows 10 settings, there is various options we should modify / disable for our privacy. To open settings, press the Windows key, and select the gear icon in the bottom left. After that, I recommend going through each tab and disabling as much as possible that you deem a privacy threat / spyware. Starting in 'Updates & Security' and working our way up, we fill first click into the tab and follow the settings below.
