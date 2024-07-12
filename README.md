@@ -25,6 +25,9 @@ This guide will be in order from what you should do first, to what you should do
 > [!CAUTION]
 > Some options in Windows may refuse to work after applying some scripts, and will just close the settings window due to instability. The rest of Windows will work as intended though. For those who play games, this will generally NOT cause any issues with games you may play.
 
+> [!TIP]
+> While you can disable a lot of Windows bloatware, spyware, and actions manually, it's more efficient to just use the scripts that are presented below, as well as the uninstaller to enhance the privacy of your Windows 10 build quickly.
+
 Chapter 1. Boot Installation & Configuration
 ------
 
