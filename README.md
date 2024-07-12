@@ -12,7 +12,7 @@ This guide will be in order from what you should do first, to what you should do
 3. Useful Tools List
 4. Useful Scripts List
 5. Removing Microsoft Edge
-6. Uninstalling Standard Apps With Tools (TODO)
+6. Uninstalling Standard Apps With Tools
 7. Permanently Disabling Windows Updates (TODO)
 8. Disabling Windows Firewall (TODO)
 9. Securely Deleting Files (TODO)
@@ -108,7 +108,7 @@ In this section, we are primarily focused on using the HiBit Uninstaller applica
 ![photo4](https://i.imgur.com/joHHOwk.png)
 ![photo5](https://i.imgur.com/dVPbZmP.png)
 
-The options we are interested in are Tools > Windows Store Apps Manager / Program Components Manager. You may also like to use some of the other tools in this drop-down such as Registry Cleaner, Junk Files Cleaner, Empty Folder Cleaner, Shortcuts Fixer, and even a File Shredder built into it. I don't recommend this file-shredder though, but rather one that's added to the list of actions when you right-click a file. Be sure to remove any left over any native Windows applications such as Paint, Notepad, Solitaire, Xbox, Phone, etc, etc.
+The options we are interested in are Tools > Windows Store Apps Manager / Program Components Manager. You may also like to use some of the other tools in this drop-down such as Registry Cleaner, Junk Files Cleaner, Empty Folder Cleaner, Shortcuts Fixer, and even a File Shredder built into it. I don't recommend this file-shredder though, but rather one that's added to the list of actions when you right-click a file. Be sure to remove any left over any native Microsoft applications such as Paint, Notepad, Calculator, Solitaire, Xbox, Phone, etc, etc.
 
 Chapter 7. Permanently Disabling Windows Updates
 ------
