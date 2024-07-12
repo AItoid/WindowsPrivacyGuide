@@ -30,34 +30,42 @@ Let's start from the complete beginning of the installation. This guide assumes 
 
 ### Chapter 2. Modifying Various Settings & Uninstalling Basic Apps
 ------
+
 Test2
 
 ### Chapter 3. Useful Tools List
 ------
+
 Test3
 
 ### Chapter 4. Useful Scripts List
 ------
+
 Test4
 
 ### Chapter 5. Removing Microsoft Edge
 ------
+
 Test5
 
 ### Chapter 6. Uninstalling Standard Apps With Tools
 ------
+
 Test6
 
 ### Chapter 7. Permanently Disabling Windows Updates
 ------
+
 Test7
 
 ### Chapter 8. Disabling Windows Firewall
 ------
+
 Test8
 
 ### Chapter 9. Securely Deleting Files
 ------
+
 Test9
 
 ### Chapter 10. Removing Metadata From Photos
