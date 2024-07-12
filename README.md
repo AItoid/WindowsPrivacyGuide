@@ -61,41 +61,45 @@ NOTE: Be sure to uninstall applications such as Paint & Calculator as well.
 #### System
 - Optional features > Uninstall applications such as Notepad or any common program for Windows.
 
-### Chapter 3. Useful Tools List
+Chapter 3. Useful Tools List
 ------
 
-Test3
+- https://exifcleaner.com/ (Clean meta-data from images)
+- https://www.fileshredder.org/index.php (Permanently remove files securely)
+- https://www.oo-software.com/en/shutup10 (Disable various spyware settings)
+- https://www.majorgeeks.com/files/details/nsudo.html (Advaned system-management tool for full-privilege access to files)
+- https://www.hibitsoft.ir/Uninstaller.html (Advanced program uninstaller & system cleaner)
 
-### Chapter 4. Useful Scripts List
+Chapter 4. Useful Scripts List
 ------
 
 Test4
 
-### Chapter 5. Removing Microsoft Edge
+Chapter 5. Removing Microsoft Edge
 ------
 
 Test5
 
-### Chapter 6. Uninstalling Standard Apps With Tools
+Chapter 6. Uninstalling Standard Apps With Tools
 ------
 
 Test6
 
-### Chapter 7. Permanently Disabling Windows Updates
+Chapter 7. Permanently Disabling Windows Updates
 ------
 
 Test7
 
-### Chapter 8. Disabling Windows Firewall
+Chapter 8. Disabling Windows Firewall
 ------
 
 Test8
 
-### Chapter 9. Securely Deleting Files
+Chapter 9. Securely Deleting Files
 ------
 
 Test9
 
-### Chapter 10. Removing Metadata From Photos
+Chapter 10. Removing Metadata From Photos
 ------
 Test10
