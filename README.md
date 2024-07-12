@@ -98,7 +98,7 @@ Chapter 4. Useful Scripts List
 Chapter 5. Removing Microsoft Edge
 ------
 
-Deleting the directoy & files that Microsoft Edge (msedge.exe) are in is quite easy, but you must keep in mind that they may come back after some updates. I personally haven't had Microsoft Edge come back after an update or reboot, but some people say that it may come back if a new update is installed on your device.
+Deleting the directory & files that Microsoft Edge (msedge.exe) are in is quite easy, but you must keep in mind that they may come back after some updates. I personally haven't had Microsoft Edge come back after an update or reboot, but some people say that it may come back if a new update is installed on your device.
 
 The steps to uninstalling Microsoft Edge is quite easy. Follow the steps below:
 1. Open Task Manager (right click task-bar > Task Manager, or press CTRL + SHIFT + ESC)
