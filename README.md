@@ -126,7 +126,15 @@ Test7
 Chapter 8. Disabling Windows Firewall
 ------
 
-Test8
+Disabling the Windows Firewall is easy! Follow the steps below to disable it very quickly.
+1. Open Control Panel
+2. Type 'Firewall' into the search-box in the top-right corner
+3. Select Windows Defender Firewall
+4. Select Turn Windows Defender Firewall on or off
+5. Select Turn off for both radio-buttons.
+
+#### Photos
+![photo6](https://i.imgur.com/sh0VBad.png)
 
 Chapter 9. Securely Deleting Files
 ------
