@@ -3,7 +3,7 @@ The ultimate guide for anonymizing Windows as much as possible.
 This guide will cover everything you need to know in a simple matter for anonymizing, de-bloating, and optimizing the operating-system Windows 10 as much as possible.
 Newer Windows OS' such as 10 & 11 have many unnecessary programs and files, as well as many options that spy on you by default, as well as collecting all of your information.
 WindowsPrivacyGuide will respect your time, and will enlighten you in this compiled guide of how to take back your privacy when using the Windows OS.
-Do keep in mind that this guide primarily targets Windows 10 due to it not being in the spotlight as much, as well as it being preferred for privacy and all around convenience.
+Do keep in mind that this guide primarily targets Windows 10 due to it not being in the spotlight as much, as well as it being preferred for privacy-modifications and all around convenience.
 This guide will be in order from what you should do first, to what you should do last. Photos will be included for those that would like precise instructions that are easy-to-follow.
 
 ### Chapters
@@ -13,25 +13,25 @@ This guide will be in order from what you should do first, to what you should do
 4. Useful Scripts List
 5. Removing Microsoft Edge
 6. Uninstalling Standard Apps With Tools
-7. Permanently Disabling Windows Updates (TODO)
+7. Permanently Disabling Windows Updates
 8. Disabling Windows Firewall
 9. Securely Deleting Files
 10. Removing Metadata From Photos
 11. Installing NVIDIA drivers without bloatware
 
 > [!WARNING]
-> Please keep in mind I am NOT responsible for any issues that occurs with your computer. By applying any of these methods, you 100% agree to take full responsibility to any issues that occur on your device. It is recommended to create a restore-point in the event of a significant bug.
+> Please keep in mind I am NOT responsible for any issues that occurs with your computer. By applying any of these methods, you 100% agree to take full responsibility in the case of any issues that occur on your device. It is recommended to create a system-restore-point in the event of a notable issue.
 
 > [!CAUTION]
-> Some options in Windows may refuse to work after applying some scripts, and will just close the settings window due to instability. The rest of Windows will work as intended though. For those who play games, this will generally NOT cause any issues with games you may play.
+> Some options in Windows may refuse to work after applying some scripts, and will just close the settings window due to instability, or fail to load entirely. The rest of Windows will work as intended though. For those who play games, this will generally NOT cause any issues with games you may play.
 
 > [!TIP]
-> While you can disable a lot of Windows bloatware, spyware, and actions manually, it's more efficient to just use the scripts that are presented below, as well as the uninstaller to enhance the privacy of your Windows 10 build quickly.
+> While you can disable a lot of Windows bloatware, spyware, and actions manually, it's more efficient to just use the scripts that are presented below, as well as the uninstaller to enhance the privacy of your Windows 10 build quicker.
 
 Chapter 1. Boot Installation & Configuration
 ------
 
-Let's start from the complete beginning of the installation. This guide assumes you already aware of how to install the Windows 10 OS. I will not be explaining how to install Windows 10 OS, but rather, showing you what to disable on installation before you're prompted to the desktop. Firstly, it's important for you to NOT enable WiFi just yet! If you have an Ethernet plugged in, please disable it before continuing. Once your internet-connection is disabled, select the 'I don't have internet.' option, so you don't have to sign in. Following this path will give you what's called a local account, or an offline account. Proceed with installation, making sure Cortana is NOT enabled as well as disabling all checkboxes, and after, you should be able to proceed with installation and be prompted onto your desktop momentarily.
+Let's start from the complete beginning of the installation. This guide assumes you are already aware of how to install the Windows 10 OS. I will not be explaining how to install the OS, but rather showing you what to disable on installation before you're prompted to the desktop. Firstly, it's important for you to NOT enable WiFi just yet! If you have an Ethernet plugged in, please disable it before continuing. Once your internet-connection is disabled, select the 'I don't have internet.' option, so you don't have to sign in. Following this path will give you what's called a local account, or an offline account. Proceed with installation, making sure Cortana is NOT enabled as well as disabling all checkboxes, and after, you should be able to proceed with installation and be prompted onto your desktop momentarily.
 
 #### Photos
 ![photo1](https://i.imgur.com/aXnl9W0.png)
@@ -41,7 +41,7 @@ Let's start from the complete beginning of the installation. This guide assumes 
 Chapter 2. Modifying Various Settings & Uninstalling Basic Apps
 ------
 
-In the Windows 10 settings, there is various options we should modify / disable for our privacy. To open settings, press the Windows key, and select the gear icon in the bottom left. After that, I recommend going through each tab and disabling as much as possible that you deem a privacy threat / spyware. Starting in 'Updates & Security' and working our way up, we will click into the corresponding tab below and follow the sub-section below.
+In the Windows 10 settings, there is various options we should modify / disable for our privacy. To open settings, press the Windows key, and select the gear icon in the bottom left. After that, I recommend going through each tab and disabling as much as possible that you deem a privacy threat / spyware. Starting in 'Updates & Security' and working our way up, we will click into the corresponding tab below and follow the sub-section on the side.
 
 #### Updates & Security
 - **Windows Update** > Advanced options > Disable everything in here and pause updates for as long as you can in the drop-down.
@@ -118,12 +118,12 @@ In this section, we are primarily focused on using the HiBit Uninstaller applica
 ![photo4](https://i.imgur.com/joHHOwk.png)
 ![photo5](https://i.imgur.com/dVPbZmP.png)
 
-The options we are interested in are Tools > Windows Store Apps Manager / Program Components Manager. You may also like to use some of the other tools in this drop-down such as Registry Cleaner, Junk Files Cleaner, Empty Folder Cleaner, Shortcuts Fixer, and even a File Shredder built into it. I don't recommend this file-shredder though, but rather one that's added to the list of actions when you right-click a file. Be sure to remove any left over any native Microsoft applications such as Paint, Notepad, Calculator, Solitaire, Xbox, Phone, etc, etc.
+The options we are interested in are Tools > Windows Store Apps Manager / Program Components Manager. You may also like to use some of the other tools in this drop-down such as Registry Cleaner, Junk Files Cleaner, Empty Folder Cleaner, Shortcuts Fixer, and even a File Shredder built into it. I don't recommend this file-shredder though, but rather one that's added to the list of actions when you right-click a file. Be sure to remove any left-over native Microsoft applications such as Paint, Notepad, Calculator, Solitaire, Xbox, Phone, etc, etc. Uninstalling some of these applications may seem like a waste of time, but at the end of the day, we're here to modify Windows 10 to the extreme, not just disable a few functions.
 
 Chapter 7. Permanently Disabling Windows Updates
 ------
 
-Test7
+Please use the scripts in chapter 4 for disabling Windows 10 updates.
 
 Chapter 8. Disabling Windows Firewall
 ------
