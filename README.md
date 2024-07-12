@@ -8,15 +8,16 @@ This guide will be in order from what you should do first, to what you should do
 
 ### Chapters
 - 1. Boot Installation & Configuration
-- 2. Modifying Various Settings & Uninstalling Basic Apps (TODO)
-- 3. Useful Tools List (TODO)
-- 4. Useful Scripts List (TODO)
+- 2. Modifying Various Settings & Uninstalling Basic Apps
+- 3. Useful Tools List
+- 4. Useful Scripts List
 - 5. Removing Microsoft Edge (TODO)
 - 6. Uninstalling Standard Apps With Tools (TODO)
 - 7. Permanently Disabling Windows Updates (TODO)
 - 8. Disabling Windows Firewall (TODO)
 - 9. Securely Deleting Files (TODO)
 - 10. Removing Metadata From Photos (TODO)
+- 11. Installing NVIDIA drivers without bloatware (TODO)
 
 Chapter 1. Boot Installation & Configuration
 ------
@@ -73,7 +74,8 @@ Chapter 3. Useful Tools List
 Chapter 4. Useful Scripts List
 ------
 
-Test4
+- https://github.com/Sycnex/Windows10Debloater (Easy-to-use GUI script for removing bloatware)
+- https://github.com/PrivacyIsFreedom/Windows (Various scripts for disabling Windows 10 spyware & features)
 
 Chapter 5. Removing Microsoft Edge
 ------
